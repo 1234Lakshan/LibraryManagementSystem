@@ -130,22 +130,26 @@ The Publisher class manages information about book publishers.
 ## Getting Started  
 
 ### Prerequisites  
-- A backend system to support the implementation of these entities (e.g., a relational database).  
-- Programming languages or frameworks that support object-oriented structures (e.g., Java, Python, or C#).  
+- Before jumping in, there are a few things We'll need:
 
-### Steps to Set Up  
-1. **Set Up the Database**  
-   - Organize tables for books, members, publishers, and loans.  
-   - Establish relationships between the tables as per the class diagram.  
+- A backend system, like a relational database, to manage the key components.
+- Familiarity with programming languages or frameworks that handle object-oriented programming, such as Java, Python, or C#.
+  
+1. **Set Up the Database**
+   - Begin by making tables for books, members, publishers, and loans.  
+   - Ensure that the tables are linked properly based on the relationships in the class diagram.
+ 
+2. **Build the Features**
+   - Add features to manage books, members, loans, and publishers. These are the main actions your system should do easily. 
 
-2. **Implement Functionalities**  
-   - Develop features to manage books, members, loans, and publishers.  
-
-3. **Design the Interface**  
-   - Create an application interface where users can log in, view books, borrow or return items, and manage resources.  
+3. **Design the User Interface**
+   - Create a simple, user-friendly interface.
+   - Users should be able to log in, browse books, borrow or return them, and manage other resources like publishers and 
+     member details.
 
 4. **Test and Optimize**  
-   - Test the system thoroughly to ensure all features, including publisher management and loan tracking, work as expected.  
+   - Test the system thoroughly to ensure all features, including publisher management and loan tracking, work as expected.
+   - Test and Fine-Tune Double-check the system thoroughly to confirm everything works right. Be sure to pay extra attention to sections such as the management of publishers and tracking loans. After testing is complete, tune and optimize the system for higher performance and a better experience.
 
 ---
 
